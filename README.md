@@ -7,4 +7,5 @@ This repository serves as a personal resource, enabling easy access to my notes 
 If you're on a quest to master Python, I highly recommend this course: [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  It provided the structure and guidance I needed for a successful 100-day coding challenge.
 Feel free to explore my code, projects, and reflections on this Python mastery journey. Happy coding! 🐍💻
 
-![wallpaper](wallpaper.j!pg)
+![wallpaer](https://github.com/coderaimi/test-/assets/157636956/781b2763-4097-440f-881a-5b4f9f7c3c96)
+
